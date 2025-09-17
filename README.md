@@ -1,6 +1,6 @@
 # Binary Classification with Bank Marketing Dataset
 
-!(imgs/header.png)
+![img.png](imgs/header.png)
 
 
 ## 🎯 Project Overview
