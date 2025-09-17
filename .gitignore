@@ -1,6 +1,3 @@
-# Submissions folder - contains generated predictions
-submissions/
-
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
