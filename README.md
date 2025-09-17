@@ -1,6 +1,6 @@
 # Binary Classification with Bank Marketing Dataset
 
-![Bank Marketing Dataset Overview](imgs/bank_marketing_overview.png)
+!(imgs/header.png)
 
 
 ## 🎯 Project Overview
