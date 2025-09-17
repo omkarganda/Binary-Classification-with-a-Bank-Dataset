@@ -68,10 +68,8 @@ All these approaches have been **consolidated and refined** into the final profe
 │   ├── test.csv                                    # Test dataset
 │   ├── bank-full.csv                              # Additional training data
 │   └── sample_submission.csv                      # Submission format
-├── submissions/                                    # Generated predictions
 ├── imgs/                                           # Project images
 ├── README.md                                       # Original README
-└── README_PROFESSIONAL.md                         # This file
 ```
 
 ## 🚀 Quick Start
